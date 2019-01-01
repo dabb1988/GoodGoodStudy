@@ -19,6 +19,20 @@ function fun01(){
   console.log(obj)
 }
 
+function fun02(){
+  var patt = /(\()?\d{3}(?(1)\))/g
+  var text = `
+    123-456-7890
+    (123)456-7890
+    (123)-456-7890
+    (123-456-7890
+    1234567890
+    123 456 7890
+  `
+  console.log(text.search(patt))
+  console.log(text.match(patt))
+  console.log(patt.test(text))
+  console.log(patt.exec(text))
+}
 
-
-fun01()
+fun02()

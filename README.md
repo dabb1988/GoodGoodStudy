@@ -1,7 +1,32 @@
 # 学习基础项目
 
 #### 项目介绍
-每天学习一点基础技术
+2018年最后一天了，年末大总结，栈长这一年分享了满满的技术干货，现在整理于你。 
+
+Java 核心技术干货整理：
+https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
+
+架构设计技术干货整理：
+https://mp.weixin.qq.com/s/qOjQ5fXYGn2p7Au1TlGFJg
+
+Java 面试题最强整理：
+https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ
+
+Java Web 技术干货整理：
+https://mp.weixin.qq.com/s/crOSJPvBzGWFYKCoA85-wQ 
+
+Java 常用工具系列整理：
+https://mp.weixin.qq.com/s/JM8Hx4YVThhg5iKzR46eyA
+
+Java 技术最新动态：
+https://mp.weixin.qq.com/s/vkUkLreGR5e3IbUBxCy28g
+
+程序员进阶攻略：
+https://mp.weixin.qq.com/s/q3ZooGkXcwrd08nj9fZleg
+
+Java知识星球元旦特价：
+https://mp.weixin.qq.com/s/flzGIy5QHqs2VN_bu5__ag
+
 
 #### 软件架构
 软件架构说明
